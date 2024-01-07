@@ -19,6 +19,9 @@ This directory contains the Zeppe-Lin artwork.
 #### neon-black.png
 ![](https://github.com/zeppe-lin/artwork/blob/master/neon-black.png?raw=true)
 
+#### pdf-cover.png
+![](https://github.com/zeppe-lin/artwork/blob/master/pdf-cover.png?raw=true)
+
 #### release-v0.99.1.png
 ![](https://github.com/zeppe-lin/artwork/blob/master/release-v0.99.1.png?raw=true)
 
@@ -33,4 +36,4 @@ LICENSE
 -------
 All artwork files are licensed through the CC-BY-SA-3.0 License
 <http://creativecommons.org/licenses/by-sa/3.0/>.
-Read the LICENSE file for copying conditions.
+Read the LICENSE file for copyright and copying conditions.
