@@ -1,7 +1,7 @@
 OVERVIEW
 ========
 
-This directory contains the Zeppe-Lin artwork.
+This repository contains the Zeppe-Lin artwork.
 
 **logo-big-2color.png**
 
